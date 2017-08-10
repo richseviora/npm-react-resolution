@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/react": "^16.0.2"
+    "@types/react": "^15.6.0",
+    "@types/react-router-dom": "^4.0.7"
   }
 }
